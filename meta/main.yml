@@ -1,6 +1,6 @@
 galaxy_info:
-  author: Mariusz Pradun
-  description: Change hostname based on inventory_hostname_short variable
+  author: khain
+  description: Adds target host to IPA as client
   company: Curiosity Home Lab
 
   # If the issue tracker for your role is not on github, uncomment the
